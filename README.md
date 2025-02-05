@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Counting
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Stack
