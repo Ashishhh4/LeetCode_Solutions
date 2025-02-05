@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 ## Simulation
 |  |
