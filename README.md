@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [2350-find-closest-number-to-zero](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
