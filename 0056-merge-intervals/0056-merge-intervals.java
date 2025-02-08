@@ -16,6 +16,6 @@ class Solution {
                 output.add(current);
             }
         }
-        return output.toArray(new int[output.size()][]);
+        return output.toArray(int[][]::new);
     }
 }
