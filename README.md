@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+| [3447-clear-digits](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3447-clear-digits](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3447-clear-digits](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
