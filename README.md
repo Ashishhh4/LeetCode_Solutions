@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Stack
@@ -103,4 +105,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0274-h-index) |
 | [1217-relative-sort-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
