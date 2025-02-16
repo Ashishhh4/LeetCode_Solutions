@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -162,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
