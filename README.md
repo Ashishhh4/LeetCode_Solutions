@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1217-relative-sort-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3447-clear-digits) |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
