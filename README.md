@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-letter-tile-possibilities](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-letter-tile-possibilities](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1160-letter-tile-possibilities](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Stack
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0079-word-search) |
+| [1160-letter-tile-possibilities](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Depth-First Search
 |  |
