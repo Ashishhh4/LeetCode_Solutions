@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
