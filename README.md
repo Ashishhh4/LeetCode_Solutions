@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0415-add-strings) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0079-word-search) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Matrix
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Quickselect
 |  |
