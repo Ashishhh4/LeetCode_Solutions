@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1217-relative-sort-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2058-concatenation-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2350-find-closest-number-to-zero](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2350-find-closest-number-to-zero) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Trie
 |  |
 | ------- |
