@@ -1,42 +1,31 @@
 class Solution {
-     static boolean isSafe(char[][] grid, int r, int c, boolean[][] visited) {
-        int row = grid.length;
-        int col = grid[0].length;
-
-        // r is in range, c is in range, value 
-        // is 1 and not yet visited
-        return (r >= 0) && (r < row) && (c >= 0) && 
-               (c < col) && (grid[r][c] == '1' && !visited[r][c]);
-    }
-
-    static void dfs(char[][] grid, int r, int c, boolean[][] visited) {
-        int[] rNbr = { -1, 1, 0, 0 }; // Only Up, Down, Left, Right
-        int[] cNbr = { 0, 0, -1, 1 };
-        visited[r][c] = true;
-        for (int k = 0; k < 4; ++k) {
-            int newR = r + rNbr[k];
-            int newC = c + cNbr[k];
-            if (isSafe(grid, newR, newC, visited)) {
-                dfs(grid, newR, newC, visited);
-            }
-        }
-    }
-
     public int numIslands(char[][] grid) {
-        int row = grid.length;
-        int col = grid[0].length;
-        boolean[][] visited = new boolean[row][col];
-        int count = 0;
-        for (int r = 0; r < row; ++r) {
-            for (int c = 0; c < col; ++c) {
-                if (grid[r][c] == '1' && !visited[r][c]) {
-                    
-                    dfs(grid, r, c, visited);
-                    
-                    ++count;
+        if (grid == null || grid.length == 0) {
+            return 0;
+        }
+        
+        int numIslands = 0;
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[0].length; j++) {
+                if (grid[i][j] == '1') {
+                    numIslands++;
+                    dfs(grid, i, j);
                 }
             }
         }
-        return count;
+        
+        return numIslands;
+    }
+    
+    private void dfs(char[][] grid, int i, int j) {
+        if (i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || grid[i][j] != '1') {
+            return;
+        }
+        
+        grid[i][j] = '0'; // mark as visited
+        dfs(grid, i + 1, j); // down
+        dfs(grid, i - 1, j); // up
+        dfs(grid, i, j + 1); // right
+        dfs(grid, i, j - 1); // left
     }
 }
