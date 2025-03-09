@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Design
@@ -282,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
