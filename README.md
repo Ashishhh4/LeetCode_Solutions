@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
 ## Number Theory
 |  |
 | ------- |
