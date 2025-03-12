@@ -1,22 +1,23 @@
 class Solution {
     public int maximumCount(int[] nums) {
-        int end=nums.length;
-        int n=end-1;
-        int negpos=binary_search(nums,0,n,-1);
-        int pospo=binary_search(nums,negpos,n,0);
-        int poscount=(end-pospo);
-        return Math.max(negpos,poscount);
-    }
-     public int binary_search(int nums[],int first,int last,int target){
-        while(first<=last){
-            int mid=last+(first-last)/2;
-            if(nums[mid]<=target){
-                first=mid+1;
+        int ans=0;
+        int n=nums.length;
+        int count1=0;
+        int count2=0;
+        for(int i=0;i<n;i++){
+            if(nums[i]<0){
+                count1++;
             }
-            else{
-                last=mid-1;
+            else if(nums[i]>0){
+                count2++;
             }
         }
-        return first;
+        if(count1<count2){
+            ans=count2;
+        }
+        else{
+            ans=count1;
+        }
+        return ans;
     }
 }
