@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
