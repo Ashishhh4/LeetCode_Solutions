@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2465-shifting-letters-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2530-minimize-maximum-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2530-minimize-maximum-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2530-minimize-maximum-of-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2530-minimize-maximum-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Counting Sort
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2530-minimize-maximum-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2530-minimize-maximum-of-array) |
 ## Trie
 |  |
 | ------- |
@@ -311,5 +315,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2465-shifting-letters-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
+| [2530-minimize-maximum-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [3643-zero-array-transformation-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
