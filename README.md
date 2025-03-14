@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1217-relative-sort-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2058-concatenation-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Counting Sort
