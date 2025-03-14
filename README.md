@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
