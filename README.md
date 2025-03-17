@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0415-add-strings) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -352,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
