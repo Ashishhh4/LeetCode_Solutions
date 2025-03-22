@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Design
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Bit Manipulation
 |  |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0200-number-of-islands) |
+| [2793-count-the-number-of-complete-components](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Prefix Sum
 |  |
