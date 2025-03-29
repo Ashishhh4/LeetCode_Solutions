@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0274-h-index) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1217-relative-sort-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2530-minimize-maximum-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2530-minimize-maximum-of-array) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2465-shifting-letters-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2530-minimize-maximum-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
