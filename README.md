@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
+| [0768-partition-labels](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2530-minimize-maximum-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2530-minimize-maximum-of-array) |
