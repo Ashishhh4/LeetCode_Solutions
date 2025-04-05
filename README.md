@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Depth-First Search
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0136-single-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -446,4 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
