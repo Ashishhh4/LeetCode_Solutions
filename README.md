@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0274-h-index) |
+| [0416-partition-equal-subset-sum](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1170-shortest-common-supersequence) |
