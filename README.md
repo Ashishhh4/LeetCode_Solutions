@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Ashishhh4/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 ## Topological Sort
 |  |
 | ------- |
